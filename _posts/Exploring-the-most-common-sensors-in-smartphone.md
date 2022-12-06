@@ -2,6 +2,7 @@
 published: true
 title: Exploring the most common sensors that are available in smartphones
 date: 2022-8-12
+layout: post
 ---
 Just like human body has senses to naviagte in the world through getting and processing information, your phone also has sensors for its proper functioning. We will be exploring most commonly used sensors in the smartphone.
 
