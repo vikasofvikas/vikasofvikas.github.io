@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 It is not a guide on 'how to find what you love to do.  Although, I think the answer to this question is to try different things (i know it's cliche but it is what it is, there is no way around it).
 This is the article on how to know that you have found what you like to do.
@@ -17,5 +17,3 @@ Some of my favorite distractions are building software that I have complete cont
 
 This whole distraction game can be summarized as:
 '**Find your favorite monetizable distraction that keeps you away from other distractions.**'
-
-
