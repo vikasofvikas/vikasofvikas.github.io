@@ -3,6 +3,8 @@ published: true
 layout: post
 date: 2022-8-19
 ---
+![npc.png]({{site.baseurl}}/_posts/npc.png)
+
 How cool it would be if we can know and alter the source code that is responsible for taking every decision of our life. But what is the source code in this context?
 
 In programming, source code is a text file with commands written in it that later turn into an executable file. By changing commands in the source code file we can change the output produced by the computer.
@@ -18,4 +20,3 @@ With the knowledge of our source code, we can exactly know which part of the sou
 Also, neuroscientists are peeling off the abstraction layers to understand what is beneath that is governing our life decisions, feelings and actions. In the book 'How to create mind' by Ray Kurzweil, he talks about the computational units inside our brain made out of a group of neurons that are responsible for pattern recognition. Companies like neural link and Kernel are trying to solve this mystery by leveraging recent tech advancements in brain imagery. These are the first steps for humans to understand humans.
 
 But now the question arises, even if we can edit our source code, what are the ethics that we should follow while editing, and most importantly how can we know the future consequences of editing the source code? That's for another day.
-
