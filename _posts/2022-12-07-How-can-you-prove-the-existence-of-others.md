@@ -3,6 +3,8 @@ published: true
 layout: post
 date: 2022-6-6
 ---
+![npc.png]({{site.baseurl}}/images/npc.png)
+
 The thought that ‘**I can only confirm my existence is frightening, self-centered, and at the same time liberating**'. Think about it, you can only know that you are alive, you can only know about your brain, and you can only listen to your thoughts directly.
 
 You communicate with others through language or gestures but this doesn't confirm their existence. Whether they are conscious like you. It’s like the whole universe is built around 'you' and most importantly for '**you**’.
