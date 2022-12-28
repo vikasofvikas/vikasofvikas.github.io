@@ -3,6 +3,7 @@ published: true
 layout: post
 date: 2022-5-9
 ---
+![npc.png]({{site.baseurl}}/images/evolution.png)
 I am not saying evolution is good or bad. I am typing this article because of evolution. I am just exploring how it is responsible for things that we sometimes don't think about. As we know that evolution made us this amazing dominating species capable of doing amazing things but on the other side I think it also made us miserable.
 
 Evolution ‘**engineered**’ us to always be busy surviving and then reproducing.
