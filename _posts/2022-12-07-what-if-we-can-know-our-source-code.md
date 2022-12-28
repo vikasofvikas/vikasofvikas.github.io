@@ -3,7 +3,6 @@ published: true
 layout: post
 date: 2022-8-19
 ---
-![npc.png](/npc.png)
 ![npc.png]({{site.baseurl}}/images/npc.png)
 
 
