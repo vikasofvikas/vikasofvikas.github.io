@@ -4,6 +4,8 @@ layout: post
 date: 2022-8-19
 ---
 ![npc.png](/npc.png)
+![npc.png]({{site.baseurl}}/_posts/npc.png)
+
 
 How cool it would be if we can know and alter the source code that is responsible for taking every decision of our life. But what is the source code in this context?
 
