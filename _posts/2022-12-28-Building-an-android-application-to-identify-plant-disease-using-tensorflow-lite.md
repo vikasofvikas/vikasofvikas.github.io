@@ -32,6 +32,19 @@ I cropped their background using this online AI tool [photoscissor.com](https://
 
 I used same online tools that I have mentioned above to create background image of leaf. I inverted this image horizontally to use it on second tab bar background to make switching between two tab bars feel more natural.
 
+**### Back-end and Tensorflow lite:**
+For backend, I use NoSQL cloudfirestore database to display articles on the app. There is no authentication in my app so I didn't tweaked any default rules of database except some basic changes to make the app production ready. 
+If you want to add authentication to your app, you can consider using authentication feature of the firebase. You can authenticate your users using Google account, Facebook account, Apple account, OTP on their phone, Email etc. You can even send email verification link to your user. It is super simple, reliable and fast. 
+I used TensorFlow lite because I want the machine learning functionality of my app to work offline.
+Using Tensorflow lite instead of deploying a model on server(you can also do this using firebase) is a tradeoff between accuracy. Although Tensorflow lite model is less accurate but it is enough for classifying between diseased and undiseased plant leaf. I got data from Kaggle, open source data website, and agriculture universities that have repository of data. My university professor helped me a lot in finding the data and connecting me with a team who did the similar model training that I am going to do. It was very learning and fun experience. 
+
+I programmed some simple java helper classes to establish communication between tensoflow lite model and my application. The tflite plugin of flutter has some limitation that I hope they will address in future updates.
+
+**### Deploying on Google Playstore:**
+I already had an account on Google playstore. It is just one time fee of I think 20 something dollars.
+For privacy, I used free generic [terms and conditions tool](https://www.termsandconditionsgenerator.com/). I hosted my terms and condition on my website(fouxa.com) which is hosted on netlify. If you think your app needs custom terms and condition then you should contact a expert. There are lots of online services that can help you with terms and conditions of your app.
+
+
 
 
 
