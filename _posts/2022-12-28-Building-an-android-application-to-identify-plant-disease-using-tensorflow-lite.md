@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2020-8-10
 ---
-### In this article, I will share the tools that I have used to build the plant disease identification app (available on Google playstore) and steps right from the start to its deployement.
+### **In this article, I will share the tools that I have used to build the plant disease identification app ([available on Google playstore](https://play.google.com/store/apps/details?id=com.fouxa.plantdiseasedetection)) and steps right from the start to its deployement.**
 I am using flutter because of its fast development cycles and ability to built fast and smooth UI. I recommned reading [flutter documentation](https://docs.flutter.dev/).
 **Make a new flutter project on Android studio (or whatever IDE you use) and add these plugins in your pubspec.yaml file.**
 
