@@ -5,6 +5,7 @@ date: 2020-8-10
 ---
 ### **In this article, I will share the tools that I have used to build the plant disease identification app ([available on Google playstore](https://play.google.com/store/apps/details?id=com.fouxa.plantdiseasedetection)) and steps right from the start to its deployement.**
 I am using flutter because of its fast development cycles and ability to built fast and smooth UI. I recommned reading [flutter documentation](https://docs.flutter.dev/).
+
 **Make a new flutter project on Android studio (or whatever IDE you use) and add these plugins in your pubspec.yaml file.**
 
 **1. Camera plugin:** This plugin will enable the app to capture images and stream image buffers to dart. We need this plugin to capture plant leaf image and then use our tensorflow model to give results.
@@ -44,7 +45,7 @@ I programmed some simple java helper classes to establish communication between 
 
 ### **Deploying on Google Playstore:**
 
-I already had an account on Google playstore. It is just one time fee of I think 20 something dollars.
+I already had an account on Google playstore to publish the app. It is just one time fee of I think 20 something dollars.
 For privacy, I used free generic [terms and conditions tool](https://www.termsandconditionsgenerator.com/). I hosted my terms and condition on my website(fouxa.com) which is hosted on netlify. If you think your app needs custom terms and condition then you should contact a expert. There are lots of online services that can help you with terms and conditions of your app.
 
 I created screenshots and App Icon using Figma. You have to follow [these guidelines](https://support.google.com/googleplay/android-developer/answer/9866151?hl=en#zippy=) while creating screenshots, App Icon or videos. I also edited a video to give a brief description of the app. I created this video using free clips available online(same sites that I have mentioned before to get free images) and edited them using da vinci video editor.
