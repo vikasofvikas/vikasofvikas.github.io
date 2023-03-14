@@ -9,7 +9,7 @@ date: 2023-3-14
 
 Abstraction is hiding away the complexity of the system and only being concerned about its input/output. One of the best examples I know of abstraction is programming. Every programmer uses it every day for building amazing things.    
 
-Let me give you some interesting examples:
+Let me give you some really interesting examples:
 
 1. In programming and especially in object-oriented programming the main focus is hiding the main implementation and only providing the interface to the user/developer.
 
