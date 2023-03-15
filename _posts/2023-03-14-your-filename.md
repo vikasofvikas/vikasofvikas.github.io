@@ -1,7 +1,6 @@
 ---
-published: false
+published: true
 layout: post
-publish: true
 date: 2023-04-13T00:00:00.000Z
 ---
 **Living with an abstracted mind in an abstracted world.**
