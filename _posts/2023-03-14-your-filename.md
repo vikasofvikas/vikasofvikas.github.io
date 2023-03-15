@@ -5,7 +5,7 @@ date: 2023-03-13T00:00:00.000Z
 ---
 **Living with an abstracted mind in an abstracted world.**
 
-[layers](https://images.pexels.com/photos/5753028/pexels-photo-5753028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+(https://images.pexels.com/photos/5753028/pexels-photo-5753028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Abstraction is hiding away the complexity of the system and only being concerned about its input/output. One of the best examples I know of abstraction is programming. Every programmer uses it every day for building amazing things.    
 
