@@ -3,14 +3,15 @@ published: true
 layout: post
 date: 19-03-2023
 ---
-## A New Post
+![layers](https://images.pexels.com/photos/5753028/pexels-photo-5753028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 Abstraction is hiding away the complexity of the system and only being concerned about its input/output. One of the best examples I know of abstraction is programming. Every programmer uses it every day for building amazing things.
 
 Let me give you some interesting examples:
 
 In programming and especially in object-oriented programming the main focus is hiding the main implementation and only providing the interface to the user/developer.
 
-If you are a programmer you will love this example, think of people as APIs. When you ask a question from your doctor friend. you are calling an API. Suppose you want to ask which medicine to take for your cold. She will tell you the name of the medicine. So you are invoking a function, let's say String coldMedicine(){...} that returns the name of the medicine for cold. She will not tell you how she concluded that this will be the medicine, she will not tell you about the complexity of the chemical compounds in medicine and how they will cure you. In other words, she will not tell you about the internal implementation of the function.
+If you are a programmer you will love this example, think of people as APIs. When you ask a question from your doctor friend, you are calling an API. Suppose you want to ask which medicine to take for your cold. She will tell you the name of the medicine. So you are invoking a function, let's say String coldMedicine(){...} that returns the name of the medicine for cold. She will not tell you how she concluded that this will be the medicine, she will not tell you about the complexity of the chemical compounds in medicine and how they will cure you. In other words, she will not tell you about the internal implementation of the function.
 
 Another example I can give you is the device on which you are reading this text right now. You are not concerned about what’s going on inside the device that you are reading this on, you are only concerned about this ‘text’ on the screen. But on the lowest level of abstraction, there are electrons (or maybe other sub-subatomic particles) that are moving. I tried to explain it in this article.
 
