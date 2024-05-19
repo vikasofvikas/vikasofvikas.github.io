@@ -3,7 +3,6 @@ published: true
 layout: post
 date: 2024-05-19T00:00:00.000Z
 ---
-**Reflections**
 
 ![vikasdeepsinghsaini.png]({{site.baseurl}}/images/vikasdeepsinghsaini.png)
 
