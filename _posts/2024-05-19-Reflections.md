@@ -13,10 +13,18 @@ A couple of months ago this year on a Sunday I called 6 of my friends, and surpr
 
 ![whynotfly.png]({{site.baseurl}}/images/whynotfly.png)
 
-I don’t know why they abandoned their dreams and started getting comfortable in the mediocre life that they are living. I can ask myself the same question. Maybe I have an answer. Even for myself, I was starting to get a comfortable, predictable path that my parents, my friends, and the whole society expected me to follow. The reason probably is that I have realized that there is a very high probability that I will live a medicare life and it's very hard to do otherwise. It is very hard to take “ the road not taken”. During childhood, you can dream but When reality slaps you, only then do you get to know what you are capable of or how hard it is to increase your capability.
+I don’t know why they abandoned their dreams and started getting comfortable in the mediocre life that they are living. I can ask myself the same question. Maybe I have an answer. Even for myself, I was starting to get a comfortable, predictable path that my parents, my friends, and the whole society expected me to follow. The reason probably is that I have realized that there is a very high probability that I will live a medicare life and it's very hard to do otherwise. It is very hard to take “ the road not taken”. During childhood, you can dream but When reality slaps you, only then do you get to know what you are capable of or how hard it is to increase your capability. I have realized that age and ambition are inversely proportional, until or unless you really train your mind.  
 You feel that you are “not extraordinary”, that you are “unique just like everyone else”. This feeling sucks.
 
-Another thing is how I am always thinking about the past that I have lived and not much excited about the future. 
-“Live as long as you may, the first twenty years are the longest half of your life. They appear so while they are passing; they seem to have been so when we look back on them; and they take up more room in our memory than all the years that succeed them.” — Robert Southey
+![graph.png]({{site.baseurl}}/images/graph.png)
+
+
+Another thing is how I am always thinking about the past that I have lived in and not much excited about the future. 
+
+**“Live as long as you may, the first twenty years are the longest half of your life. They appear so while they are passing; they seem to have been so when we look back on them; and they take up more room in our memory than all the years that succeed them.” — Robert Southey**
+I heard this quote when I was 19 and was thinking it can’t be true. But now even after I shifted to a new country, bought a bunch of shit, and am living on my own in my mid-twenties, it doesn’t feel that much of a change compared to all the school and college years. Those memories take up more space in my mind than the ones that I make now. This article I read by Paras makes much more sense now. [article](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/)
+
+The realization and what I will do:
+Time will pass, no matter how I choose to live, so why not be optimistic and do the best I can in the present to achieve what I want? There should be some really really ambitious goals to achieve otherwise already meaningless life becomes more meaningless. I want to learn new stuff every day, implement it, and build something useful for myself and others. It can be physical things, videos or software or anything. In the last couple of years, I have realized that given that I will live for the next 40-50 years without any major health problems, I think I will be able to do some amazing things even with my mediocre intelligence, and tendency of mine to leave things midway. 
 
 
