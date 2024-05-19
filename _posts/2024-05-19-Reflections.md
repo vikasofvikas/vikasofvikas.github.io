@@ -18,13 +18,13 @@ You feel that you are “not extraordinary”, that you are “unique just like 
 
 ![graph.png]({{site.baseurl}}/images/graph.png)
 
-
 Another thing is how I am always thinking about the past that I have lived in and not much excited about the future. 
 
-**“Live as long as you may, the first twenty years are the longest half of your life. They appear so while they are passing; they seem to have been so when we look back on them; and they take up more room in our memory than all the years that succeed them.” — Robert Southey**
+**“Live as long as you may, the first twenty years are the longest half of your life. They appear so while they are passing; they seem to have been so when we look back on them; and they take up more room in our memory than all the years that succeed them.”** — Robert Southey
+
 I heard this quote when I was 19 and was thinking it can’t be true. But now even after I shifted to a new country, bought a bunch of shit, and am living on my own in my mid-twenties, it doesn’t feel that much of a change compared to all the school and college years. Those memories take up more space in my mind than the ones that I make now. This article I read by Paras makes much more sense now. [article](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/)
 
-The realization and what I will do:
+**The realization and what I will do:**
 Time will pass, no matter how I choose to live, so why not be optimistic and do the best I can in the present to achieve what I want? There should be some really really ambitious goals to achieve otherwise already meaningless life becomes more meaningless. I want to learn new stuff every day, implement it, and build something useful for myself and others. It can be physical things, videos or software or anything. In the last couple of years, I have realized that given that I will live for the next 40-50 years without any major health problems, I think I will be able to do some amazing things even with my mediocre intelligence, and tendency of mine to leave things midway. 
 
 
