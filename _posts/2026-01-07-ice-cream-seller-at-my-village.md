@@ -1,5 +1,5 @@
-![](https://i.imgur.com/OXqH2ZS.jpeg)
 
+![layers](https://i.imgur.com/OXqH2ZS.jpeg)
 
 When I was a kid, I spent 10–15 minutes every day waiting for my school bus at my bus stop. On some days, the waiting was longer because the bus had to cross a railway crossing to get into my village. Near my bus stop, there was an ice cream seller who used to sell ice cream in those orange-colored ice cream cones on a cart. He was from either Bihar or UP. He used to rent a small room near my bus stop for himself, and every summer he came to our village to sell ice cream.
 
